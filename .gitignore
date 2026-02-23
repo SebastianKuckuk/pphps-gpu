@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+__pycache__
+.conda
+.vs
+
+code/exercise/stream
+code/exercise/stencil-2d
+code/solution/stream
+code/solution/stencil-2d
